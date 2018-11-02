@@ -1,0 +1,14 @@
+torch
+gym[atari]
+pysc2
+numpy
+visdom
+tensorflow
+tensorboardX
+openpyxl
+baselines
+pandas
+git+https://github.com/greydanus/excitationbp.git#egg=excitationbp
+git+https://github.com/lwneal/imutil
+pyyaml
+
